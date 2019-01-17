@@ -9,6 +9,6 @@
 import Foundation
 
 struct Player{
-    var playerLeague = ""
-    var playerLevel = ""
+    var playerLeague: String!
+    var playerLevel: String!
 }
